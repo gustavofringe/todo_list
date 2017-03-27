@@ -96,3 +96,18 @@ input:hover{
   left: 5px;
   top: 90px
 }
+/*card list*/
+.card-list{
+  position: absolute;
+  top: 150px;
+  left: 50px;
+}
+.list-content{
+  height: 150px;
+  width: 200px;
+  background-color: #E2E4E6;
+  border-radius: 8px;
+  padding: 10px;
+  float:left;
+  margin-right: 40px;
+}
