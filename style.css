@@ -1,3 +1,15 @@
 html{
   font-family: 'Lato', sans-serif;
 }
+/*entete*/
+body{
+  height: 100%;
+  background-color: #0067A3;
+}
+.header{
+  color: #f3f3f3;
+  overflow: hidden;
+  padding: 5px;
+  z-index: 10;
+  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+}
