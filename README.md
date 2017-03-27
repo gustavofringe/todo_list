@@ -1,4 +1,6 @@
 # todo_list  
-### Commencez à en faire plus en moins de temps  
-Gérez vos tâches et vos projets partout avec Todoist.  C
-hez vous, à l'école, au bureau, en ligne ou hors ligne, sur plus de 10 plateformes.
+De nombreux freelances travaillent avec des outils pour créer et organiser une to-do list. Et pour cause, cette méthode   présente un certain nombre d’avantages :  
+  1.Vous libérez votre esprit, vous n’avez plus peur d’oublier.
+  2.Vous suivez l’avancement de vos travaux.
+  2.Vous avez l’impression d’accomplir des choses, d’atteindre vos objectifs et d’être efficace (des petites victoires bonnes pour le moral).
+  4.Pour bénéficier de tous les avantages d’une to-do list, voici une sélection d’outils fort utiles pour organiser vos tâches.
