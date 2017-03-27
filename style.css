@@ -111,3 +111,32 @@ input:hover{
   float:left;
   margin-right: 40px;
 }
+/*responsive*/
+@media (max-width:800px){
+  .header-btn-text{
+    display: none;
+  }
+  .member-initials{
+    display: none;
+  }
+  .list-content{
+    margin-bottom: 50px;
+  }
+  .header-search{
+    width: 50px;
+    position: absolute;
+    left:120px;
+    top: 10px;
+  }
+  .header-search img{
+    margin-left: 20px;
+  }
+  .header-logo{
+    margin-left: 90%;
+  }
+  .board-header-btn{
+    position: absolute;
+    left: 20px;
+    top: 100px;
+  }
+}
